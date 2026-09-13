@@ -5,6 +5,13 @@ Este repositorio contiene una práctica de simulación de flujo de trabajo colab
 
 ---
 
+## Integrantes del Proyecto
+
+* **Rosa Cristel Félix Guzmán** — Developer 2 / Administrador del repositorio (Gestión de rama `main`, edición de vistas de tablas y fusión de cambios).
+* **Julio César Trujillo García** — Developer 1 (Gestión de rama `developer2`, edición del dashboard principal).
+
+---
+
 ## Roles
 
 ### 1. Developer 1 (Administrador / Main & Dashboard)
